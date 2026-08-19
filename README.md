@@ -16,4 +16,16 @@ Summary: Max Heap Sort uses a max heap to repeatedly place the largest element a
 
 Conclusion: Heap Sort is an efficient, in-place sorting algorithm with O(n log n) worst-case performance and O(1) extra space complexity.
 
+PRACTICAL 4
+
+SUMMARY: Iterative methods use loops to repeat operations, while recursive methods solve a problem by calling themselves with smaller inputs.
+
+CONSLUSIONB: Iteration generally uses less memory, while recursion provides a simple and clear approach for problems that can be divided into smaller subproblems.
+
+
+PRACTICAL 7
+
+SUMMARY: Coin Exchange uses algorithms to find the minimum number of coins required to make a given amount using the available denominations.
+
+CONCLUSION: The practical demonstrates how algorithms like Dynamic Programming can efficiently solve the Coin Exchange problem with O(A × C) time complexity.
 
