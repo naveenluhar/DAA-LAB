@@ -10,3 +10,10 @@ SUMMARY: Linear Search checks elements one by one, while Binary Search repeatedl
 
 CONCLUSION:Binary Search is faster with O(log n) time complexity, whereas Linear Search has O(n) complexity and can be used on both sorted and unsorted data.
 
+PRACTICAL 3
+
+Summary: Max Heap Sort uses a max heap to repeatedly place the largest element at the end of the array. Its time complexity is O(n log n).
+
+Conclusion: Heap Sort is an efficient, in-place sorting algorithm with O(n log n) worst-case performance and O(1) extra space complexity.
+
+
