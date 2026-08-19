@@ -1,6 +1,7 @@
 PRACTICAL 1
 
 SUMMARY: We studied searching, sorting, and coin change algorithms and analyzed their time complexity and execution time.
+
 CONCLUSION: This practical helped us understand how to choose efficient algorithms for solving problems and handling large inputs.
 
 PRACTICAL 2
