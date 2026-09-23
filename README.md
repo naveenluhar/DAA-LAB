@@ -51,3 +51,17 @@ Conclusion
 
 Thus, the Matrix Chain Multiplication problem was successfully solved using Dynamic Programming.
 The algorithm has O(n³) time complexity and O(n²) space complexity.
+
+practical 8
+
+ Summary
+
+Graph is a non-linear data structure made up of vertices and edges.
+BFS uses a queue to visit nodes level by level.
+DFS uses recursion or a stack to visit nodes deeply.
+
+Conclusion
+
+BFS and DFS are important graph traversal techniques.
+Both methods help in searching and exploring graph nodes efficiently.
+Their implementation improves understanding of graph data structures.
